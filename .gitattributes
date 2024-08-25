@@ -1,2 +1,2 @@
-*.r linguist-detectable=true
-*.r linguist-language=r
+*.R linguist-detectable=true
+*.R linguist-language=R
