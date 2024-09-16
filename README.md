@@ -34,7 +34,8 @@ The following steps, from 9 to 11, are mandatory in order to be able to perform 
 
 Step 9: Normalize data (Xs variable). Calculate and write down the mean of the normalized image.
 As mentioned above, we normalize the data using the scale function since this function has the parameters center and scale, which contain the arithmetic mean and standard deviation respectively. If we wanted to do it by hand, we would have to perform the following operation:
-        > The value of the element minus the mean, divided by the standard deviation.
+
+> The value of the element minus the mean, divided by the standard deviation.
 
 Step 10: Calculate the mean of the assigned person, normalized.
 
