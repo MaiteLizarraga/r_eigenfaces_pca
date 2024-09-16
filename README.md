@@ -1,6 +1,6 @@
 # Face recognition using PCA, eigenvectors, eigenvalues and eigenfaces
 
-The following code has been programmed in R in order to perform image analysis using Pricipal Components Analysis.
+The following code has been programmed in R in order to perform face image analysis using Pricipal Components Analysis and matrix and vector arithmetic with Eigen.
 
 ## 1. Reading and visualizing the images:
 
