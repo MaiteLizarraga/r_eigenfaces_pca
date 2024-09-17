@@ -5,14 +5,19 @@ The following code has been programmed in R in order to perform face image analy
 ## 1. Reading and visualizing the images:
 
 Step 1: Create the initial parameters, some may be used later-on. Create the image visualization function, it will be used to visualize any image of our image set.
+
 Step 2: Install the required packages, in this case, OpenImageR and ramify.
+
 Step 3: Import those libraries to be able to use them.
+
 Step 4: Create the image_directory variable, it will store the path to our image set.
 
 ![R Project setup](https://github.com/MaiteLizarraga/r_eigenfaces_pca/blob/main/capturas/1-set-up.jpg)
 
 Step 5: Read the images from the directory, save them in a list and combine them into a 3D array.
+
 Step 6: Reshape data. The vector will be used for calculations and the matrix to paint the images.
+
 Step 7: Visualize the assigned image (I).
 
 ![R Project image visualization](https://github.com/MaiteLizarraga/r_eigenfaces_pca/blob/main/capturas/2-show-assigned-face.jpg)
